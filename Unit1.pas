@@ -135,7 +135,7 @@ begin
   if IPAddress = '137.220.60.13' then
   begin
     TrayIcon1.IconIndex := 0;
-    Form1.Color := clGreen;
+    Form1.Color := clLime;
   end
   else
   begin
